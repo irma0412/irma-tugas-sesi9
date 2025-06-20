@@ -1,5 +1,5 @@
 # irma-tugas-sesi9
-Repositori ini berisi tugas sesi 9 dari program pelatihan Digital Skola dengan implementasi otomatisasi menggunakan Selenium WebDriver dan Mocha. Tugas ini mencakup dua skenario pengujian pada website SauceDemo:
+Repositori ini berisi tugas sesi 9 dari program bootcamp Digital Skola dengan implementasi otomatisasi menggunakan Selenium WebDriver dan Mocha. Tugas ini dibuat menggunakan JavaScript dan mencakup dua skenario pengujian pada website SauceDemo:
 
 # Sukses Login
 
