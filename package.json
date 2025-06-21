@@ -4,7 +4,7 @@
     "description": "Selenium WebDriver tests using Mocha with Mochawesome reports",
     "scripts": {
         "percobaan": "mocha tests/sesi9/tes-login.js --recursive --timeout 60000",
-        "tugas": "mocha tests/irma_tugas_sesi9 --recursive --timeout 60000 --reporter mochawesome"
+        "tugas": "mocha tests/irma_tugas_sesi9/ --recursive --timeout 60000 --reporter mochawesome"
     },
     "dependencies": {
         "selenium-webdriver": "^4.17.0"
